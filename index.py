@@ -5,7 +5,7 @@
 - The Prisoner Riddle
 - Explanation: Veritasium - https://www.youtube.com/watch?v=iSNsgj1OCLA
 
-: Program by BluZed#9413
+: Program by bluzed
 
 ============================================================
 ============================================================
